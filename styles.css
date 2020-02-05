@@ -1,0 +1,15 @@
+div
+{
+    background-color: rgba(241, 28, 28, 0.1);
+    border: groove 3px;
+    border-color: grey;
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+
+#message-input
+{
+    margin-left: 5px;
+}
